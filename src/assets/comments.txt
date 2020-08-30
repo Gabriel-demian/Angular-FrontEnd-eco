@@ -1,0 +1,2 @@
+"assets" folder is special directory you can place your web assets here: Images, JS, CSS, PDFs, etc
+Can also add sub-directories with any name. 
